@@ -27,6 +27,14 @@ body {
     font-size: 20px;
     text-align: center;
 }
+
+.generate-btn:hover{
+    border: 8px solid #2e41ad;
+    background-color: #3b4fc0;
+
+
+}
+
 .generate-btn:focus{
     outline: none;
     box-shadow: none;
@@ -76,6 +84,11 @@ margin-right: -4px;
 border-radius: 10px;
 cursor: pointer;
 }
+
+.button:hover{
+    background: #29384a;
+}
+
 .blink-me {
 color: #E0B612;
 }
@@ -87,6 +100,11 @@ color: #E0B612;
     background: #495BC3;
     color: #fff;
 }
+
+.submit-btn:hover{
+    background: #2e47d1;
+}
+
 .notify {
     color: #fff;
     text-align: center;
